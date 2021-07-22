@@ -14,11 +14,21 @@ h2{
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
     color:  #66BFBF;
+    font-weight: normal;
 
 }
 h3{
+    color: 11999E;
     font-family: 'Montserrat', sans-serif;
-
+}
+.skill-row{
+    width: 50%; 
+    position: relative;
+     margin: 100px auto 100px auto;
+    
+}
+a{
+    color: 11999E;
 }
 .top-container{
     background-color: E4FF5; 
@@ -49,6 +59,9 @@ h3{
 
     left: 200px;
     
+}
+.pro{
+    text-decoration: underline;
 } 
 .blue{
     height: 100px;
